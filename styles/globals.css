@@ -1,0 +1,60 @@
+/* 404 err css 
+#notfound {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.notfound {
+  text-align: center;
+}
+
+.notfound-404 h1 {
+  font-size: 236px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+a {
+  font-size: 16px;
+  color: #ff6300;
+  text-decoration: none;
+  cursor: pointer;
+}
+.data{
+  color: #ff6300;
+}
+
+nav {
+  background-color: #333;
+  padding: 10px;
+}
+
+.menu-bar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu-bar li {
+  margin-right: 15px;
+}
+
+.menu-bar a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+ */

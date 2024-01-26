@@ -1,0 +1,21 @@
+.q1 {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .menubar {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .menubar li {
+    margin-right: 15px;
+  }
+  
+  .menubar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }

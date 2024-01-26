@@ -1,0 +1,39 @@
+/* 404 err css */ 
+#notfound {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .notfound {
+    text-align: center;
+  }
+  
+  .notfound-404 h1 {
+    font-size: 236px;
+    margin: 0;
+  }
+  
+  .man {
+    font-size: 28px;
+    margin: 10px 0;
+  }
+  
+  .a1 {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .a2 {
+    font-size: 16px;
+    color: #ff6300;
+    text-decoration: none;
+    cursor: pointer;
+  }
+ 
+  
+  
+  
+  
